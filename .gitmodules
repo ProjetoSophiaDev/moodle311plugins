@@ -90,3 +90,7 @@
 	path = moodle/course/format/collapsibletopics
 	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
 	branch = master
+[submodule "moodle/theme/eguru"]
+	path = moodle/theme/eguru
+	url = https://github.com/ProjetoSophiaDev/eguru.git
+	branch = v311
