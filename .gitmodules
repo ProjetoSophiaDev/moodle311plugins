@@ -50,3 +50,7 @@
 	path = moodle/mod/scheduler
 	url = https://github.com/bostelm/moodle-mod_scheduler.git
 	branch = master
+[submodule "moodle/mod/game"]
+	path = moodle/mod/game
+	url = https://github.com/bdaloukas/moodle-mod_game.git
+	branch = MOODLE_20_STABLE
