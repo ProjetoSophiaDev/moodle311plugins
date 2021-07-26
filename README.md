@@ -137,6 +137,15 @@ git submodule add -b master https://github.com/brandaorodrigo/moodle-format_butt
 ```bash
 git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
+- https://github.com/trampgeek/moodle-qtype_coderunner
+```bash
+git submodule add -b master https://github.com/trampgeek/moodle-qtype_coderunner.git question/type/coderunner
+git submodule add -b master https://github.com/trampgeek/moodle-qbehaviour_adaptive_adapted_for_coderunner.git question/behaviour/adaptive_adapted_for_coderunner
+```
+- https://github.com/jcrodriguez-dis/moodle-mod_vpl
+```bash
+git submodule add -b V3.4.3+ https://github.com/jcrodriguez-dis/moodle-mod_vpl.git mod/vpl
+```
 
 ## Themes List
 
