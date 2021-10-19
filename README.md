@@ -27,6 +27,8 @@ $CFG->preventexecpath = true;
 ## References
 https://www.vogella.com/tutorials/GitSubmodules/article.html
 
+## Jenkins
+https://jenkins.adrianoruseler.com/view/Sophia/job/Sophia-MDLDevUpdate/
 
 ## Plugins List
 
